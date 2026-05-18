@@ -47,3 +47,12 @@ header {
 .menu a:hover {
   color: #fedd65;
 }
+
+.menu-toggle {
+
+    display: none;
+
+    font-size: 2rem;
+
+    cursor: pointer;
+}
